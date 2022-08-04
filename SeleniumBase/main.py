@@ -4,11 +4,11 @@
 # @Email  : fanyu.zhao@vhall.com
 import pytest
 
-path = "/Users/yh/Desktop/Dahui_UI/SeleniumBase/TestCase"
+path = "./"
 
 
 if __name__ == '__main__':
-    pytest.main(['-m', 'h5_room', path, '--report=musen.html',
+    pytest.main(['-m', 'web_room', path, '--report=musen.html',
                  '--title=微吼现场测试报告',
                  '--tester=宇',
                  '--desc=报告描述信息',
