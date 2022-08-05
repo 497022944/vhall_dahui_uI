@@ -12,28 +12,14 @@ test_cms_watch_url = "https://t-conference.vhall.com"
 # 控制台域名-测试
 test_console = "https://t-dahui-api.vhall.com"
 # 项目id-测试
-test_project = 1646
+test_project = 1954
 # 房间id-测试
-test_il_id = 16037
-
-
-# CMS控制台域名
-cms_console_url = "https://conference-cms.vhall.com"
-
-# 落地页域名
-cms_watch_url = "https://conference.vhall.com"
-
-# 控制台域名
-console = "https://t-dahui-api.vhall.com"
-
-project = 395
-# 房间id-测试
-il_id = 496
+test_il_id = 16120
 
 # 昵称
 nick_name = "凡宇"
 # 手机号
-phone = "13161971339"
+phone = "15011160748"
 # 观众手机号
 watch_phone = "13161971331"
 # 观众手机号2
@@ -55,4 +41,4 @@ H5_IP = 'IOS:///127.0.0.1:8100'
 
 """直播间"""
 # 问卷-测试
-test_question = 695964
+test_question = 701600
